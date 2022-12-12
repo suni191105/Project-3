@@ -1,7 +1,7 @@
 # Project-3
 To do application
 ## INTRODUCTION
-To do applications with CRUD operations
+To do applications 
 ## TECHNOLOGIES 
 * html,
 *css,
